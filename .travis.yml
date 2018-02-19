@@ -5,5 +5,5 @@ python:
   - "3.4"
 
 script:
- - python scottjoneshelloworld.py
+ - python helloscott.py
 
